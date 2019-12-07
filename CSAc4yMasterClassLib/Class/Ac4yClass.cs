@@ -34,5 +34,6 @@ namespace CSAc4yClass.Class
         public String Ancestor { get; set; }
         public List<Ac4yProperty> PropertyList { get; set; }
         public string GUID { get; set; }
+        public string Namespace { get; set; }
     }
 }
